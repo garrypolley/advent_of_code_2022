@@ -1,0 +1,11 @@
+# Python git ignore file
+# Ignore all standard python files
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+
+# Ignore virtual envs
+.env/
+.venv/
